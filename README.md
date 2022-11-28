@@ -56,20 +56,20 @@ With a p-Value of 0.04, which is lower than the significance level of 0.05, ther
 
 ## Study Design: MechaCar vs Competition
 
-* What metric or metrics are you going to test?
+* **What metric or metrics are you going to test?**
 
   The next metric to test should be the safety rating.
 
-* What is the null hypothesis or alternative hypothesis?
+* **What is the null hypothesis or alternative hypothesis?**
 
   The null hypothesis is that the mean of the safety rating is zero. 
   The alternative hypothesis is that the mean of the safety rating is not zero.
 
-* What statistical test would you use to test the hypothesis? And why?
+* **What statistical test would you use to test the hypothesis? And why?**
 
   Using a multiple linear regression statistical summary would show how the variables impact the safety ratings for MechaCar  and their competitors.
 
-* What data is needed to run the statistical test?
+* **What data is needed to run the statistical test?**
 
   A random safety rating sample of MechaCar and their competitor would need to be collected.
 
