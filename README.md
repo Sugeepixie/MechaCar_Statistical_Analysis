@@ -1,5 +1,6 @@
 # MechaCar_Statistical_Analysis
 ## Linear Regression to Predict MPG
+
 ![Deliverable1](https://user-images.githubusercontent.com/76926148/204196092-3651c4fd-7079-4001-a271-12a8c29c0ba5.PNG)
 
 * The image shows the results of linear regression model to predict MPG using variables of vehicle_length, vehicle_height, spoiler_angle, ground_clearance, AWD.According to our results vehicle length and ground clearance (and Intercept) provide a non-random amount of variance to the linear model of mpg.
@@ -14,10 +15,12 @@
 ## Summary Statistics on Suspension Coils
 
 The total summary data shows the suspension coil variance as 62.29356 which is below 100 pounds per square inch.
+
  ![total_summary](https://user-images.githubusercontent.com/76926148/204196131-00c91244-8e04-4df8-8c3a-a4545c0406d1.PNG)
 
  
 The lot summary data shows lots 1&2 are below the limit and meets the design specifications but let 3 is above the limit of 100 pounds per square inch and does not meet the design specifications.
+
  ![lot_summary](https://user-images.githubusercontent.com/76926148/204196148-17efd753-643e-4575-9bb9-19a3b27d3fb0.PNG)
 
  
