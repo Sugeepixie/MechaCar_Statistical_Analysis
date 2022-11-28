@@ -46,7 +46,7 @@ With a p-Value of 0.61, which is higher than the significance level of 0.05, the
 
 ![Del3_Ttest_3](https://user-images.githubusercontent.com/76926148/204196318-36d26094-2313-41d0-9f8a-cde43b2ac20a.PNG)
 
-* T-test for lot 3 vs. pop. mean of 1500 PSI - yes, a statistical difference.
+* T-test for lot 3 vs. pop. mean of 1500 PSI - yes, there is a statistical difference.
 
 With a p-Value of 0.04, which is lower than the significance level of 0.05, there is enough evidence to reject the null hypothesis.The mean of lot 3 is statistically different than population mean of 1,500 pounds per square inch.
 
@@ -56,17 +56,21 @@ With a p-Value of 0.04, which is lower than the significance level of 0.05, ther
 
 ## Study Design: MechaCar vs Competition
 
-* What metric or metrics are you going to test
+* What metric or metrics are you going to test?
+
   The next metric to test should be the safety rating.
 
 * What is the null hypothesis or alternative hypothesis?
+
   The null hypothesis is that the mean of the safety rating is zero. 
   The alternative hypothesis is that the mean of the safety rating is not zero.
 
 * What statistical test would you use to test the hypothesis? And why?
-  Using a multiple linear regression statistical summary would show how the variables impact the safety ratings for MechaCar   and their competitors.
+
+  Using a multiple linear regression statistical summary would show how the variables impact the safety ratings for MechaCar  and their competitors.
 
 * What data is needed to run the statistical test?
+
   A random safety rating sample of MechaCar and their competitor would need to be collected.
 
 
