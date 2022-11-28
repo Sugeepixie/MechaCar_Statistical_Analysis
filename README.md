@@ -28,25 +28,25 @@
 
 T-tests were run to determine if all manufacturing lots and each lot individually are statistically different from the population mean of 1,500 pounds per square inch.The results are shown below. The only lot with a statistical difference is Lot 3 because p-value is lower than the significant level of 0.05percent.
 
-* T-test for all lots vs. pop. mean of 1500 PSI - no statistical difference.
+* **T-test for all lots vs. pop. mean of 1500 PSI - no statistical difference**
 
 With a p-Value of 0.06, which is higher than the significance level of 0.05, there is NOT enough evidence to reject the null hypothesis.The mean of all three lots is statistically similar to population mean of 1,500 pounds per square inch.
 
 ![Del3_Ttest_1](https://user-images.githubusercontent.com/76926148/204196201-9db1d82c-7d03-434f-a7c7-f01471ade053.PNG)
 
-* T-test for lot 1 vs. pop. mean of 1500 PSI - no statistical difference.
+* **T-test for lot 1 vs. pop. mean of 1500 PSI - no statistical difference**
 
 With a p-Value of 1, which is higher than the significance level of 0.05, there is NOT enough evidence to reject the null hypothesis.The mean of lot 1 is statistically similar to population mean of 1,500 pounds per square inch.
 
 ![Del3_Ttest_2](https://user-images.githubusercontent.com/76926148/204196258-833e3622-4220-410c-895d-00b510023035.PNG)
 
-* T-test for lot 2 vs. pop. mean of 1500 PSI - no statistical difference.
+* **T-test for lot 2 vs. pop. mean of 1500 PSI - no statistical difference**
 
 With a p-Value of 0.61, which is higher than the significance level of 0.05, there is NOT enough evidence to reject the null hypothesis.The mean of lot 2 is statistically similar to population mean of 1,500 pounds per square inch.
 
 ![Del3_Ttest_3](https://user-images.githubusercontent.com/76926148/204196318-36d26094-2313-41d0-9f8a-cde43b2ac20a.PNG)
 
-* T-test for lot 3 vs. pop. mean of 1500 PSI - yes, there is a statistical difference.
+* **T-test for lot 3 vs. pop. mean of 1500 PSI - yes, there is a statistical difference**
 
 With a p-Value of 0.04, which is lower than the significance level of 0.05, there is enough evidence to reject the null hypothesis.The mean of lot 3 is statistically different than population mean of 1,500 pounds per square inch.
 
